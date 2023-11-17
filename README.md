@@ -1,1 +1,1 @@
-# Transmission-Prediction-Linear-Regression
+# Transmission-Prediction-Logistic-Regression
